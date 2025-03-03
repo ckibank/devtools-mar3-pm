@@ -1,0 +1,6 @@
+projectKey=com.echios:calculator
+serverUrl=https://supreme-parakeet-9gv6vxxqj7cpqwr-9000.app.github.dev
+serverVersion=25.2.0.102705
+dashboardUrl=https://supreme-parakeet-9gv6vxxqj7cpqwr-9000.app.github.dev/dashboard?id=com.echios%3Acalculator
+ceTaskId=377e36c5-0321-460f-88d0-2b8608fb6544
+ceTaskUrl=https://supreme-parakeet-9gv6vxxqj7cpqwr-9000.app.github.dev/api/ce/task?id=377e36c5-0321-460f-88d0-2b8608fb6544
